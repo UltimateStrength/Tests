@@ -1,0 +1,3 @@
+https://discord.com/api/guilds/697931751829274631/widget.json
+
+<iframe src="https://discord.com/widget?id=697931751829274631&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
